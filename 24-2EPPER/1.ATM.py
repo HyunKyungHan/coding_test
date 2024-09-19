@@ -1,4 +1,4 @@
-# BOJ 111399
+# BOJ 11399
 def calculate(t_list):
     t_list.sort()
     tot = 0
